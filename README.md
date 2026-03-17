@@ -7,6 +7,8 @@ The application automatically alternates between **work sessions and breaks**, h
 This project demonstrates **GUI development, event-driven programming, countdown timers, and session management in Python**.
 
 ---
+<img width="544" height="467" alt="image" src="https://github.com/user-attachments/assets/0aeb3132-b57d-4d4f-9a7e-a5b8000f69d7" />
+
 
 ## Features
 
